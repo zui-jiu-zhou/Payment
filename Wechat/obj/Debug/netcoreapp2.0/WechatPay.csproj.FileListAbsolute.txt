@@ -1,0 +1,8 @@
+E:\Personnel\WechatPay\bin\Debug\netcoreapp2.0\WechatPay.deps.json
+E:\Personnel\WechatPay\bin\Debug\netcoreapp2.0\WechatPay.dll
+E:\Personnel\WechatPay\bin\Debug\netcoreapp2.0\WechatPay.pdb
+E:\Personnel\WechatPay\obj\Debug\netcoreapp2.0\WechatPay.csproj.CoreCompileInputs.cache
+E:\Personnel\WechatPay\obj\Debug\netcoreapp2.0\WechatPay.AssemblyInfoInputs.cache
+E:\Personnel\WechatPay\obj\Debug\netcoreapp2.0\WechatPay.AssemblyInfo.cs
+E:\Personnel\WechatPay\obj\Debug\netcoreapp2.0\WechatPay.dll
+E:\Personnel\WechatPay\obj\Debug\netcoreapp2.0\WechatPay.pdb
