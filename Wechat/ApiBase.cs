@@ -6,7 +6,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BaiMeng.Core.WeiXin.Helper.H5Pay
+namespace Payment.Wechat
 {
     public abstract class ApiBase<TResult> where TResult: ResultBase, new()
     {

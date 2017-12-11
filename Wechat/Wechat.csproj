@@ -2,10 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Payment.Wechat</AssemblyName>
+    <RootNamespace>Payment.Wechat</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Html\" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
   </ItemGroup>
 
 </Project>

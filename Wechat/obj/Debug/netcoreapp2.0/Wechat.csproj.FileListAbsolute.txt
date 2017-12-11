@@ -1,0 +1,9 @@
+G:\projects\Net\Payment\Wechat\obj\Debug\netcoreapp2.0\Wechat.csprojResolveAssemblyReference.cache
+G:\projects\Net\Payment\Wechat\obj\Debug\netcoreapp2.0\Wechat.csproj.CoreCompileInputs.cache
+G:\projects\Net\Payment\Wechat\obj\Debug\netcoreapp2.0\Wechat.AssemblyInfoInputs.cache
+G:\projects\Net\Payment\Wechat\obj\Debug\netcoreapp2.0\Wechat.AssemblyInfo.cs
+G:\projects\Net\Payment\Wechat\bin\Debug\netcoreapp2.0\Payment.Wechat.deps.json
+G:\projects\Net\Payment\Wechat\bin\Debug\netcoreapp2.0\Payment.Wechat.dll
+G:\projects\Net\Payment\Wechat\bin\Debug\netcoreapp2.0\Payment.Wechat.pdb
+G:\projects\Net\Payment\Wechat\obj\Debug\netcoreapp2.0\Payment.Wechat.dll
+G:\projects\Net\Payment\Wechat\obj\Debug\netcoreapp2.0\Payment.Wechat.pdb

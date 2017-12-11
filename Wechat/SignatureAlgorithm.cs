@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel;
 
-namespace BaiMeng.Core.WeiXin.Helper.H5Pay
+namespace Payment.Wechat
 {
     public enum SignatureAlgorithm : int
     {

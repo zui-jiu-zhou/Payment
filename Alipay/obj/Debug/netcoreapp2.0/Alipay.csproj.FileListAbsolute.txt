@@ -1,0 +1,9 @@
+G:\projects\Net\Payment\Alipay\obj\Debug\netcoreapp2.0\Alipay.csprojResolveAssemblyReference.cache
+G:\projects\Net\Payment\Alipay\obj\Debug\netcoreapp2.0\Alipay.csproj.CoreCompileInputs.cache
+G:\projects\Net\Payment\Alipay\obj\Debug\netcoreapp2.0\Alipay.AssemblyInfoInputs.cache
+G:\projects\Net\Payment\Alipay\obj\Debug\netcoreapp2.0\Alipay.AssemblyInfo.cs
+G:\projects\Net\Payment\Alipay\bin\Debug\netcoreapp2.0\Payment.Alipay.deps.json
+G:\projects\Net\Payment\Alipay\bin\Debug\netcoreapp2.0\Payment.Alipay.dll
+G:\projects\Net\Payment\Alipay\bin\Debug\netcoreapp2.0\Payment.Alipay.pdb
+G:\projects\Net\Payment\Alipay\obj\Debug\netcoreapp2.0\Payment.Alipay.dll
+G:\projects\Net\Payment\Alipay\obj\Debug\netcoreapp2.0\Payment.Alipay.pdb

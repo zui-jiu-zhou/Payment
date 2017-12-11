@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Xml.Serialization;
 
-namespace BaiMeng.Core.WeiXin.Helper.H5Pay
+namespace Payment.Wechat.Html
 {
     [Serializable]
     [XmlRoot("xml", IsNullable = false)]

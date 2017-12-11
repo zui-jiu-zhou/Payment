@@ -2,10 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Payment.Alipay</AssemblyName>
+    <RootNamespace>Payment.Alipay</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Html\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
   </ItemGroup>
 
 </Project>

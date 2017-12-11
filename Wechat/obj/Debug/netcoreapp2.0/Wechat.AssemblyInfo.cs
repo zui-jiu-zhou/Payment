@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Wechat")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Payment.Wechat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Wechat")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Wechat")]
+[assembly: System.Reflection.AssemblyProductAttribute("Payment.Wechat")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Payment.Wechat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

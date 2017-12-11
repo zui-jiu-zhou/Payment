@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Alipay")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Payment.Alipay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Alipay")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Alipay")]
+[assembly: System.Reflection.AssemblyProductAttribute("Payment.Alipay")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Payment.Alipay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

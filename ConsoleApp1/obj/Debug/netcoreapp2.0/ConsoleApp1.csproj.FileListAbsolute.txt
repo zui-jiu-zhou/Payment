@@ -1,0 +1,11 @@
+G:\projects\Net\Payment\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+G:\projects\Net\Payment\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+G:\projects\Net\Payment\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+G:\projects\Net\Payment\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+G:\projects\Net\Payment\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+G:\projects\Net\Payment\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+G:\projects\Net\Payment\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\projects\Net\Payment\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\projects\Net\Payment\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+G:\projects\Net\Payment\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+G:\projects\Net\Payment\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb

@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace BaiMeng.Core.WeiXin.Helper.H5Pay
+namespace Payment.Wechat.Html
 {
     public class UnifiedOrder : ApiBase<UnifiedOrderResult>
     {

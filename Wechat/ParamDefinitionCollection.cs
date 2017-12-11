@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace BaiMeng.Core.WeiXin.Helper.H5Pay
+namespace Payment.Wechat
 {
     public class ParamDefinitionCollection : IReadOnlyList<ParamDefinition>
     {

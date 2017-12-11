@@ -4,7 +4,7 @@ using System.Linq;
 using System.Xml.Serialization;
 using System.Web;
 
-namespace BaiMeng.Core.WeiXin.Helper.H5Pay
+namespace Payment.Wechat.Html
 {
     [XmlRoot(ElementName = "xml")]
     public class RefundNotify : ResultBase
